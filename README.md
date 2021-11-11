@@ -38,6 +38,8 @@
 
   <img align="left" alt="George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavazosgeorge&layout=compact)](https://github.com/cavazosgeorge/github-readme-stats)
+
 </details>
 
 [twitter]: https://twitter.com/jax0042
