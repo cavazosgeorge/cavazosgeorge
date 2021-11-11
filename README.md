@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jax0042?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjax0042&screen_name=jax0042)
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jax0042?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjax0042&screen_name=jax0042) -->
+[![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/georgecavazos/)
 
 ## I'm a current Lambda School student and aspiring software engineer!
 
@@ -10,11 +10,6 @@
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can consistently beat solitaire in under 60 secs
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
