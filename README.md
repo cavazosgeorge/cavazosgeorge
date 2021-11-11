@@ -5,6 +5,8 @@
 
 [![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=)](https://www.linkedin.com/in/georgecavazos/)
 
+<img align="right" alt="Visual Studio Code" width="60px" src="https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5e1230986a42a4d4965e22f6_icon.png" />
+
 ## I'm a current Lambda School student and aspiring software engineer!
 
 - 🌱 I’m currently learning Javascript, Node, and Go
