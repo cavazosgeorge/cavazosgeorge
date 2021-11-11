@@ -33,14 +33,17 @@
 
 ---
 
-<details>
+<!-- <details> -->
   <summary>⚡ George's GitHub Stats</summary>
 
-  <img align="left" alt="George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true" />
+  <img align="left" alt="George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavazosgeorge&layout=compact)](https://github.com/cavazosgeorge/github-readme-stats)
+<br />
+<br />
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavazosgeorge&layout=compact&theme=chartreuse-dark)](https://github.com/cavazosgeorge/github-readme-stats)
+
+<!-- </details> -->
 
 [twitter]: https://twitter.com/jax0042
 [linkedin]: https://linkedin.com/in/georgecavazos/
