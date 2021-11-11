@@ -34,7 +34,8 @@
 ---
 
 <!-- <details> -->
-  <summary>⚡ George's GitHub Stats</summary>
+
+⚡ George's GitHub Stats
 
   <img align="left" alt="George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
