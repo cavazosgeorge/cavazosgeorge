@@ -1,8 +1,9 @@
 ### Hi there, I'm George 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jax0042?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjax0042&screen_name=jax0042)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jax0042?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjax0042&screen_name=jax0042) -->
+<br>
 
-[![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/georgecavazos/)
+[![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=)](https://www.linkedin.com/in/georgecavazos/)
 
 ## I'm a current Lambda School student and aspiring software engineer!
 
