@@ -7,6 +7,8 @@
 
 ## I'm a current Lambda School student and aspiring software engineer!
 
+---
+
 - 🌱 I’m currently learning Javascript, Node, and Go
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
