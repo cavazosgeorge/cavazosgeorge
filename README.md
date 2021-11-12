@@ -1,4 +1,4 @@
-### Hi there, I'm George 👋
+### Hi there, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jax0042?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjax0042&screen_name=jax0042) -->
 <br>
@@ -38,6 +38,10 @@
   <img align="left" alt="George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavazosgeorge&layout=compact&theme=chartreuse-dark)
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cavazosgeorge.cavazosgeorge&left_color=grey&right_color=blue)
 
 <!-- </details> -->
 
