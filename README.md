@@ -35,7 +35,7 @@
 
 #### ⚡ George's GitHub Stats
 
-![George's Github Stats](https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=true&theme=chartreuse-dark)
+![George's Github Stats](https://github-readme-stats.vercel.app/api?username=cavazosgeorge&show_icons=true&hide_border=false&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavazosgeorge&layout=compact&theme=chartreuse-dark)
 
