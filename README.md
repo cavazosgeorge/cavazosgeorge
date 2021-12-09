@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Javascript, Node, and Go
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I can consistently beat solitaire in under 60 secs
 
 <br />
