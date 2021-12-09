@@ -5,9 +5,9 @@
 
 [![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=)](https://www.linkedin.com/in/georgecavazos/)
 
-<img align="right" alt="Lambda School" width="60px" src="https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5e1230986a42a4d4965e22f6_icon.png" />
+<img align="right" alt="BloomTech" width="60px" src="https://pbs.twimg.com/profile_images/1460613913381380103/-3J_57AV_400x400.jpg" />
 
-## I'm a current Lambda School student and aspiring software engineer!
+## I'm a current BloomTech student and aspiring software engineer!
 
 - 🌱 I’m currently learning Javascript, Node, and Go
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
