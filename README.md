@@ -7,7 +7,7 @@
 
 <img align="right" alt="BloomTech" width="60px" src="https://pbs.twimg.com/profile_images/1460613913381380103/-3J_57AV_400x400.jpg" />
 
-## I'm a current BloomTech student and aspiring software engineer!
+## I'm a BloomTech Graduate and aspiring software engineer!
 
 - 🌱 I’m currently learning Javascript, Node, and Go
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
