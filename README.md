@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/CONNECT-blue?style=flat&logo=linkedin&labelColor=)](https://www.linkedin.com/in/georgecavazos/)
 
-<img align="right" alt="BloomTech" width="60px" src="https://pbs.twimg.com/profile_images/1460613913381380103/-3J_57AV_400x400.jpg" />
+<img align="right" alt="BloomTech" width="60px" src="https://cdn.discordapp.com/attachments/814509256081932308/987072558451015750/unknown.png" />
 
 ## I'm a BloomTech Graduate and Aspiring Software Engineer!
 
