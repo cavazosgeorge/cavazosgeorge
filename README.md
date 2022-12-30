@@ -11,7 +11,7 @@
 
 ## I'm a BloomTech Graduate and Aspiring Software Engineer!
 
-- 🌱 I’m currently working at Pfizer on the Automation Engineering team!
+- 🌱 I’m currently learning Javascript, GO, and SQL
 - 👯 I’m looking to collaborate with others and sharpen my backend skills
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I can consistently beat solitaire in under 60 secs
